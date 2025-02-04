@@ -1,0 +1,4 @@
+.LOG
+05:50 2/4/2025
+this is my git test folder
+05:59 2/4/2025
